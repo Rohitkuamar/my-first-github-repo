@@ -1,4 +1,4 @@
 # my-first-github-repo
 Here is my first repo
 
-cheange 
+cheange  in remote for conflict
