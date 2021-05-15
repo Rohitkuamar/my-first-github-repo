@@ -1,4 +1,3 @@
 # my-first-github-repo
 Here is my first repo
-
-cheange 
+ new line to resolve conflict
